@@ -1,0 +1,18 @@
+/* 
+licence : ISC
+author : educlick comm
+see more on /licence.txt
+*/
+.text-overline {text-decoration: overline;}
+.text-line-through {text-decoration: line-through;}
+.text-underline {text-decoration: underline;}
+.text-nowrap {white-space: nowrap;}
+.text-justify {text-align: justify;text-justify: inter-word;}
+.text-uppercase {text-transform: uppercase;}
+.text-lowercase {text-transform: lowercase;}
+.fs-xs {font-size: 0.5rem;}
+.fs-s {font-size: 1rem;}
+.fs-m {font-size: 1.5rem;}
+.fs-x {font-size: 2rem;}
+.fs-xl {font-size: 2.5rem;}
+.fs-xxl {font-size: 3rem;}

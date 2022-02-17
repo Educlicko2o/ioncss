@@ -1,0 +1,25 @@
+/* 
+  licence : ISC
+  author : educlick comm
+  see more on /licence.txt
+*/
+/* bg color */
+.bg-primary {background: var(--ion--primary);}
+.bg-secondary {background: var(--ion--secondary);}
+.bg-light {background: var(--ion--light);}
+.bg-white {background: var(--ion--white);}
+.bg-dark {background: var(--ion--dark);}
+.bg-success {background: var(--ion--success);}
+.bg-info {background: var(--ion--info);}
+.bg-warning {background: var(--ion--warning);}
+.bg-danger {background: var(--ion--danger);}
+/* text color */
+.text-primary {color: var(--ion--primary);}
+.text-secondary {color: var(--ion--secondary);}
+.text-light {color: var(--ion--light);}
+.text-white {color: var(--ion--white);}
+.text-dark {color: var(--ion--dark);}
+.text-success {color: var(--ion--success);}
+.text-info {color: var(--ion--info);}
+.text-warning {color: var(--ion--warning);}
+.text-danger {color: var(--ion--danger);}

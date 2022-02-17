@@ -1,0 +1,18 @@
+{
+  "name": "ioncss",
+  "version": "1.7.4",
+  "description": "ion css making you code faster",
+  "main": "/import.js",
+  "keywords": [
+    "ion",
+    "ionic",
+    "ioncss",
+    "css",
+    "frameworks",
+    "web",
+    "educlick ion",
+    "educlick-ion"
+  ],
+  "author": "educlick comm, amarnath p, adithyan m k",
+  "license": "ISC"
+}

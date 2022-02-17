@@ -1,0 +1,18 @@
+/* 
+licence : ISC
+author : educlick comm
+see more on /licence.txt
+*/
+:root {
+--ion--primary: #4a5cff;
+--ion--danger: #ff3e3e;
+--ion--warning: #ffcc00;
+--ion--success: green;
+--ion--info: #2bb7ff;
+--ion--light: #dcdcdc;
+--ion--white: #ffffff;
+--ion--dark: #000000;
+--ion--secondary: #bfbfbf;
+--ion--bg-transparent: rgba(50,50,50,0.6);
+}
+body {margin: 0;padding: 0;box-sizing: border-box;}
