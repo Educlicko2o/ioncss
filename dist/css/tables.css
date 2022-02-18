@@ -1,0 +1,15 @@
+.table-responsive {
+  overflow-x: auto;
+}
+
+.table {
+  border-collapse: collapse;
+}
+
+.table td, .table td {
+  padding: 15px;
+}
+
+.table-borderd tr, .table-borderd th, .table-borderd td {
+  border: 1px solid #ddd;
+}

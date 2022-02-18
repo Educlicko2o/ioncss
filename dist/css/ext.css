@@ -1,0 +1,107 @@
+/* opacity */
+.op-1 {opacity: 0.2;}
+.op-2 {opacity: 0.4;}
+.op-3 {opacity: 0.6;}
+.op-4 {opacity: 0.8;}
+.op-5, .op {opacity: 1}
+/* background */
+.bg-repeat-x {background-repeat: repeat-x;}
+.bg-repeat-y {background-repeat: repeat-y;}
+.bg-no-repeat {background-repeat: no-repeat;}
+.border-box {box-sizing: border-box;}
+.bs-small {box-shadow: 0px 5px 5px rgba(150,150,150,0.5);}
+.bs-medium {box-shadow: 0px 10px 10px rgba(150,150,150,0.5);}
+.bs-large {box-shadow: 0px 15px 15px rgba(150,150,150,0.5);}
+/* overflow */
+.overflow-x-none {overflow-x: hidden !important}
+.overflow-y-none {overflow-y: hidden !important}
+.overflow-y-auto {overflow-y: auto !important;}
+.overflow-x-auto {overflow-x: auto !important}
+/* display */
+.d-block, .display-block {display: block;}
+.hidden, .d-hidden, .display-hidden {display: none;}
+.d-inline, .display-inline {display: inline;}
+.d-inline-block, .display-inline-block {display: inline-block;}
+/* z index */
+.z-index-min {z-index: 1;}
+.z-index-min-md {z-index: 50}
+.z-index {z-index: 100}
+.z-index-md {z-index: 300;}
+.z-index-max {z-index: 999;}
+/* fixed */
+.fixed-top {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+}
+.fixed-bottom {
+  position: fixed;
+  bottom: 0px;
+  left: 0px;
+}
+.fixed-top-right {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+.fixed-bottom-right {
+  position: fixed;
+  top: 0px;
+  right: 0px;
+}
+/* sticky */ 
+.sticky-top {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  top: 0;
+}
+.sticky-bottom {
+  position: -webkit-sticky !important;
+  position: sticky !important;
+  bottom: 0;
+}
+/* float */
+.float-left {float: left !important;}
+.float-right {float: right !important;}
+.clearfix {overflow: auto;}
+/* cursors */
+.alias {cursor: alias;}
+.all-scroll {cursor: all-scroll;}
+.auto {cursor: auto;}
+.cell {cursor: cell;}
+.context-menu {cursor: context-menu;}
+.col-resize {cursor: col-resize;}
+.copy {cursor: copy;}
+.crosshair {cursor: crosshair;}
+.default {cursor: default;}
+.e-resize {cursor: e-resize;}
+.ew-resize {cursor: ew-resize;}
+.grab {cursor: grab;}
+.grabbing {cursor: grabbing;}
+.help {cursor: help;}
+.move {cursor: move;}
+.n-resize {cursor: n-resize;}
+.ne-resize {cursor: ne-resize;}
+.nesw-resize {cursor: nesw-resize;}
+.ns-resize {cursor: ns-resize;}
+.nw-resize {cursor: nw-resize;}
+.nwse-resize {cursor: nwse-resize;}
+.no-drop {cursor: no-drop;}
+.none {cursor: none;}
+.not-allowed {cursor: not-allowed;}
+.pointer {cursor: pointer;}
+.progress-curso {cursor: progress;}
+.row-resize {cursor: row-resize;}
+.s-resize {cursor: s-resize;}
+.se-resize {cursor: se-resize;}
+.sw-resize {cursor: sw-resize;}
+.text {cursor: text;}
+.w-resize {cursor: w-resize;}
+.wait {cursor: wait;}
+.zoom-in {cursor: zoom-in;}
+.zoom-out {cursor: zoom-out;}
+/* other */
+.bar {
+  width: 100%;
+  overflow: hidden;
+}

@@ -1,0 +1,68 @@
+:root {
+  --ion-primary: #4a5cff;
+  --ion-danger: #ff3e3e;
+  --ion-warning: #ffcc00;
+  --ion-success: green;
+  --ion-info: #2bb7ff;
+  --ion-light: #dcdcdc;
+  --ion-white: #ffffff;
+  --ion-black: #000000;
+  --ion-secondary: #bfbfbf;
+  --ion-transparent-50: rgba(50,50,50,0.5);
+  --ion-dark: #000011;
+  --ion-white-50: rgba(250,250,250,0.5);
+  --ion-black-50: rgba(0,0,0,0.5);
+}
+/* bg color */
+.bg-primary {background: var(--ion-primary) !important;}
+.bg-secondary {background: var(--ion-secondary) !important;}
+.bg-light {background: var(--ion-light) !important;}
+.bg-white {background: var(--ion-white) !important;}
+.bg-dark {background: var(--ion-dark) !important;}
+.bg-success {background: var(--ion-success) !important;}
+.bg-info {background: var(--ion-info) !important;}
+.bg-warning {background: var(--ion-warning) !important;}
+.bg-danger {background: var(--ion-danger) !important;}
+.bg-transparent-50 {background: var(--ion-transparent-50) !important;}
+.bg-black {background: var(--ion-black) !important;}
+.bg-white-50 {background: var(--ion-white-50) !important;}
+.bg-black-50 {background: var(--ion-black-50) !important;}
+/* text color */
+.text-primary {color: var(--ion-primary) !important;}
+.text-secondary {color: var(--ion-secondary) !important;}
+.text-light {color: var(--ion-light) !important;}
+.text-white {color: var(--ion-white) !important;}
+.text-dark {color: var(--ion-dark) !important;}
+.text-success {color: var(--ion-success) !important;}
+.text-info {color: var(--ion-info) !important;}
+.text-warning {color: var(--ion-warning) !important;}
+.text-danger {color: var(--ion-danger) !important;}
+.text-transparent-50 {background: var(--ion-transparent-50) !important;}
+.text-white-50 {background: var(--ion-white-50) !important;}
+.text-black {background: var(--ion-black) !important;}
+.text-black-50 {background: var(--ion-black-50) !important;}
+/* text styling */
+.text-overline {text-decoration: overline;}
+.text-line-through {text-decoration: line-through;}
+.text-underline {text-decoration: underline;}
+.text-nowrap {white-space: nowrap;}
+.text-justify {text-align: justify;text-justify: inter-word;}
+.text-uppercase {text-transform: uppercase;}
+.text-lowercase {text-transform: lowercase;}
+.fs-xs {font-size: 0.5rem;}
+.fs-s {font-size: 1rem;}
+.fs-m {font-size: 1.5rem;}
+.fs-x {font-size: 2rem;}
+.fs-xl {font-size: 2.5rem;}
+.fs-xxl {font-size: 3rem;}
+/* align */
+.text-left {text-align: left}
+.text-center {text-align: center}
+.text-right {text-align: right}
+/* others */
+.text-decoration-none {text-decoration: none;}
+mark, .mark {
+  background-color: #0040f470;
+  padding: 1px;
+}
+code {color: #ff0036}
