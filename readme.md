@@ -11,20 +11,26 @@
 
 educlick ioncss is a css library made by educlick comm making you style faster.
 
-## Whats included in this version
+### How to install
+Install the zip below and unzip on you project and then add a script to that like
+```html:
+<script type="text/javascript" src="file to ion.min.js">
+```
+or use npm
+```
+npm install ioncss
+```
 
-* text color changing for 8 colors
-* background color changing for 8 colors
-* aligning font `left, center and right`
-* padding and margin
-* border, border color and its radius
-* width, responsive classes 
-* position `top and bottom`
-* min width
-* button styling beta
-* responsive grid style
-* text decoration
-And much more
+### What's in this beta version
+This beta version includes `text color`, `back ground color`, `text align`, `border`, `border radius`, `border color`, `paddings`, `margin`, `widths`, `min widths`, `buttons style`, `positions`, `text decoration` and much more.
+
+### When will be the next release
+
+The ioncss V2 is expected to release in March 5 IST.
+
+### Documentation
+
+Go to ion css documentation on [educlick](https://www.educlick.page/ion)
 
 ## Sponsoring
 
